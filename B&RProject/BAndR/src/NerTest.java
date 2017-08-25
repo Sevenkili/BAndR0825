@@ -8,7 +8,7 @@ import org.ansj.domain.Term;
 import org.ansj.splitWord.analysis.NlpAnalysis;
 import org.ansj.splitWord.analysis.ToAnalysis;
 
-public class Nertest {
+public class NerTest {
 	/**
 	 * @author qichenglin
 	 * @param args
